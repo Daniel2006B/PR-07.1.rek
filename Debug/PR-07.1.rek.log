@@ -1,0 +1,3 @@
+﻿  PR-07.1.rek.cpp
+C:\Users\danyl\OneDrive\Робочий стіл\TEMS-(6-14)\PR-07.1.rek\PR-07.1.rek.cpp(55): warning C4717: 'Sort': recursive on all control paths, function will cause runtime stack overflow
+  PR-07.1.rek.vcxproj -> C:\Users\danyl\OneDrive\Робочий стіл\TEMS-(6-14)\PR-07.1.rek\Debug\PR-07.1.rek.exe
