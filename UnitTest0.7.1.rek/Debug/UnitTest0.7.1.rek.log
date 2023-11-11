@@ -1,0 +1,3 @@
+﻿  UnitTest0.7.1.rek.cpp
+C:\Users\danyl\OneDrive\Робочий стіл\TEMS-(6-14)\PR-07.1.rek\PR-07.1.rek.cpp(47,50): error C2660: 'Change': function does not take 5 arguments
+C:\Users\danyl\OneDrive\Робочий стіл\TEMS-(6-14)\PR-07.1.rek\PR-07.1.rek.cpp(13,6): message : see declaration of 'Change'
